@@ -4,7 +4,7 @@ import telebot
 from telebot import types
 from g4f.client import Client
 # --- تنظیمات اصلی ---
-BOT_TOKEN = "7626714819:AAFrSIODPm3D03TpjiGVyUofCtKpUcBooHQ" 
+BOT_TOKEN = "888888888888888888888888888" 
 bot = telebot.TeleBot(BOT_TOKEN)
 client = Client()
 
